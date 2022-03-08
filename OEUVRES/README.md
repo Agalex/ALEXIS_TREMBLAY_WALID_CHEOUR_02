@@ -7,6 +7,14 @@ Chère Sasha est une oeuvre interactif crée par Trish Nguyen, Angelina De Silva
 Voici les installations en cours pour l'environnement, le son et les lumièresé
 
 voici  le shéma de l'installation.
+
+
+![plantation_01](https://user-images.githubusercontent.com/89647885/157318518-4c51393d-00b8-4d94-85e4-9384946cfb91.jpg)
+
+
+
+
+
 Dans l'installation, il sera attendu à ce que j'intérragis avec les divers objets retrouvés dans la salle pour comprendre au fur et à mesure la vie que Sasha a mené. 
 Il faudra avoir les bases en conception sonore, en programmation et en traitement video pour réaliser un tel projet.
 
