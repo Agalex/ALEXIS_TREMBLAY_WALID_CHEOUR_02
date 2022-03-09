@@ -15,3 +15,5 @@
 ![plan_technique_new](https://user-images.githubusercontent.com/89647885/157474956-61530022-b1f0-496e-9ca0-6bf24ea88af0.png)
 ![planV2](https://user-images.githubusercontent.com/89647885/157478853-03a5c765-6b3f-4acc-ba17-5179e526a9e6.png)
 ![semaine-4-collectif](https://user-images.githubusercontent.com/89647885/157478890-888c02a9-dd27-46ce-bdf7-e1293c8b5e2b.png)
+![2taXktd](https://user-images.githubusercontent.com/89647885/157479374-840a0254-f491-49d3-8773-dd4cdc9bb074.jpeg)
+![2taXktd](https://user-images.githubusercontent.com/89647885/157479374-840a0254-f491-49d3-8773-dd4cdc9bb074.jpeg)
