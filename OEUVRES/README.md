@@ -102,7 +102,11 @@ référence: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs
 
 ## 6 oeuvre : Chronaufrage
 
-Créateurs/créatrices:
+Créateurs/créatrices: Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine
+
+Ce projet prends la forme d'un musée. L'intention de départ est de repésenter que le temps mort que les gens ont pour devenir productif et d'acomplir des tâches qui sont ncéessaires pour avancer dans la vie et de s'améliorer en tant qu'humain. l'oeuvre conciste à ce que le public se rapprochennt de différentes projections numériques qui diffuse certaines intéractions dans des tableaux  qui sont influencés par les utilisateurs.  
+
+
 
 
 
