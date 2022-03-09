@@ -22,7 +22,7 @@ Dans l'installation, il sera attendu  qu'on interagira avec les divers objets re
 
 Les cours qui sont indispensables pour cette oeuvre sont: conception sonore intéractive, Contrôle de la qualité et Espace interactif
 
-
+référence: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 
 ## 2 oeuvre : L'horloge de l'apocalypse
@@ -41,7 +41,7 @@ voici son shéma d'installation.
 
 En expérimentant, on s'attendera a intéragir avec l'horloge pour prendre conscience de comment la terre se déteriorise au fil des époques. Il faudra d'ailleurs suivre des cours en conception sonore interactive, animation 2D et espace interactif.
  
- 
+ référence: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
  
  
  ## 3 oeuvre : 3 minutes
@@ -57,7 +57,7 @@ source: https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproductio
 En expérimentant, le public aura la sensation d'un jeu interactif et immersif  et prendra conscience en même temps de ce que l'intimidation peut engendrer à des étudiants.
 Ils nous semblent que les cours de réalité virtuelle, animation 3D et conception sonore interactive seraient des cours dispensables pour accomplir ce genre de projet.
  
- 
+ référence: https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
 ## 4 oeuvre : Jeu temporel.
 créateur: Raphaël Fillion et Philippe Trudel
@@ -75,9 +75,10 @@ voici le shéma de l'installation.
 source:https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 
 
-Bien évidemment, ce projet demandera d'avoir des compétences en programmtion, de sons et d'animation. Il faudra donc poursuivre les cours de conception sonore, montage video, Programmation interactive et bases de donées et raitement video.
+Bien évidemment, ce projet demandera d'avoir des compétences en programmtion, de sons et d'animation. Il faudra donc poursuivre les cours de conception sonore, montage video, Programmation interactive et bases de donées et le traitement video.
 
 
+référence: https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
 
 
 
