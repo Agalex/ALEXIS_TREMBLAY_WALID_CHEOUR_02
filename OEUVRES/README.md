@@ -61,6 +61,20 @@ Il nous semble que les cours de réalité virtuelle, animation 3D et conception 
  
 Les cours qui sont indispensables pour cette oeuvre sont: conception sonore intéractive, Espace interactif et réalité virtuelle
 
+## 4 oeuvre : Jeu temporel.
+créateur: Raphaël Fillion et Philippe Trudel
+
+Cette installation est une oeuvre interactive sous la forme d'un jeu télévisé  questionnaire. Le but est de sensibiliser les gens avec l'environnement et les principales conséquences écologiques. Le jeu concistera à ce qu'un animateur  inivite les gens a faire une expérience temporel pour répondre à des questions concernant des enjeux de la société. Il y aura des questions qui sera basée sur la société et la culture générale. L'intention est de remettre en question les gens à propos d'un futur qui sera sois déplorable ou remarquable. Il faudara prendre conscience des conscequences sociales qui impactera l'avenir. L'ambiance ressemblera à celui d'un jeu télévisé avec de la bonne couleure, de la musique, des humeurs différantes etc.
+
+
+voici l'installation encours dans les studios.
+
+
+voici le shéma de l'installation.
+
+Bien évidemment, ce projet demandera d'avoir des compétences en programmtion, de sons et d'animation. Il faudra donc poursuivre les cours de conception sonore, montage video, Programmation interactive et bases de donées et raitement video.
+
+
 
 
 
