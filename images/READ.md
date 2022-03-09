@@ -13,3 +13,5 @@
 ![plantation2 drawio](https://user-images.githubusercontent.com/89647885/157321915-488063d8-4f29-469a-80d2-7f90c0c5ac04.png)
 ![podium-wide](https://user-images.githubusercontent.com/89647885/157475132-909faee9-de02-4ac3-945d-a27d82b8e4ae.jpeg)
 ![plan_technique_new](https://user-images.githubusercontent.com/89647885/157474956-61530022-b1f0-496e-9ca0-6bf24ea88af0.png)
+![planV2](https://user-images.githubusercontent.com/89647885/157478853-03a5c765-6b3f-4acc-ba17-5179e526a9e6.png)
+![semaine-4-collectif](https://user-images.githubusercontent.com/89647885/157478890-888c02a9-dd27-46ce-bdf7-e1293c8b5e2b.png)
