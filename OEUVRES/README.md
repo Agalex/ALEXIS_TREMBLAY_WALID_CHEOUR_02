@@ -100,7 +100,9 @@ référence: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs
 
 
 
-## 1 oeuvre : Chronaufrage
+## 6 oeuvre : Chronaufrage
+
+Créateurs/créatrices:
 
 
 
