@@ -88,11 +88,11 @@ créateur : William Dubois et Ghislain Lacombe
  voici l'installation en cours dans les studios.
 
 ![semaine-4-collectif](https://user-images.githubusercontent.com/89647885/157478890-888c02a9-dd27-46ce-bdf7-e1293c8b5e2b.png)
- https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
+source: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
  
  voici le shéma de l'installation.
  ![planV2](https://user-images.githubusercontent.com/89647885/157478853-03a5c765-6b3f-4acc-ba17-5179e526a9e6.png)
-source:https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
+source: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
 
 Il sera question aussi de réussir les cours en  conception sonore, espace intéractif et réalité virtuelle pour pouvoir faire ce projet.
 
