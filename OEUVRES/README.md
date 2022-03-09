@@ -98,3 +98,13 @@ Il sera question aussi de réussir les cours en  conception sonore, espace inté
 
 référence: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
 
+
+
+## 1 oeuvre : Chronaufrage
+
+
+
+
+
+
+
