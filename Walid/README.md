@@ -8,11 +8,11 @@ J'aime bien l'idée de l'interactivité avec une horloge. Je trouve que c'est or
 
 ## 3 choix préféré = chère Sasha
 
-Je trouve que c'est une idée original et j'aime bien le message que ça évoque. J'aime aussi comment ce projet utilise tous ce qu'on apprend dans la technique pour que ça soit très immersif. De mon avis, je trouve qu'on serait plongé dans l'univers et on se sentirait comme des spectateurs de la vie de Sasha. On apprendrait à bien connaître sa vie. Vu que ça sera aussi intéractif on serait plus curieux. Dans un tel projet, je ferai les videos ainsi que le montage sonore car je suis plus à l'aize et j'ai eu un peu d'expérience dans le domaine.
+Je trouve que c'est une idée originale et j'aime bien le message que ça évoque. J'aime aussi comment ce projet utilise tout ce qu'on apprend dans la technique pour que ça soit très immersif. De mon avis, je trouve qu'on serait plongé dans l'univers et l’on se sentirait comme des spectateurs de la vie de Sasha. On apprendrait à bien connaître sa vie. Vu que ça sera aussi interactif, on serait plus curieux. Dans un tel projet, je ferai les vidéos ainsi que le montage sonore, car je suis plus à l'aise et j'ai eu un peu d'expérience dans le domaine.
+
 
 ## 4 choix préféré = 3 minutes
- 
-J'ai toujours aimé l'univers VR. Cependant, je trouve que l'idée aurait pu être mieux poussée. Je pense que le projet a du potentiel et sera intéressant à essayer! Pour un commencement dans le multimédia, je trouve ça pas mal! Je pense que dans un tel projet, je serai celle qui modélisera les objets de l'univers.À mon avis, je pense que ce projet sera très interactif et quand même bien amusant à essayer. En utilisant la vr, on se sentirait comme si on était dans un autre monde.
+ J'ai toujours aimé l'univers VR. Cependant, je trouve que l'idée aurait pu être mieux poussée. Je pense que le projet a du potentiel et sera intéressant à essayer! Pour un commencement dans le multimédia, je trouve ça pas mal! Je pense que dans un tel projet, je serai celle qui modélisera les objets de l'univers.À mon avis, je pense que ce projet sera très interactif et quand même bien amusant à essayer. En utilisant la vr, on se sentirait comme si l’on était dans un autre monde.
 
 ## 5 choix préféré = Jeu temporel 
 
