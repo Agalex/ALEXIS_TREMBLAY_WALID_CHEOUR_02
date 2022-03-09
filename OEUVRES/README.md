@@ -85,10 +85,15 @@ référence: https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/inde
 créateur : William Dubois et Ghislain Lacombe
  L'installation est aussi une oeuvre utilisant le casque Vr. Elle conciste a projeter l'expérience d'un élève vivant une situation d'angoisse et de stresse durant le confinement. En l'incarnant, la personne devra expérimenter dans cet univers les différentes expériences stressantes que les étudiants avaient durant l'étude à distance. C'est-à-dire, l'accumulation des travaux, le sentiment d'isolement et l'anixété face à l'échec. Il devra parcourir certains stades de l'expérience commencant en premier par son bureau devant un ordinateur dans sa chambre, dans sa salle à manger et dans son salon. L'intention est de faire comprendre aux utilisateurs l'inquiétude et le stresse endurer par les étudiants et ses difficultés  au fil des différents temps du confinement.Des témoignages/ articles de journaux eront visibles aussi sur des mesures pour sensibiler le public au stresse. L'ambiance sera accompagné d'une musique de relaxation qui commencera tout au début de l'éxpérience avant de mettre le casque. Elle finira ensuite par un genre héroïque après que l'éxpérience se termine. L'utilisateur se sentira libéré de toute la pression que cette expérience lui infligera à la fin après qu'il ait vécu ce cauchemar.
  
- voici l'installtion en cours dans les studios.
+ voici l'installation en cours dans les studios.
+
+![semaine-4-collectif](https://user-images.githubusercontent.com/89647885/157478890-888c02a9-dd27-46ce-bdf7-e1293c8b5e2b.png)
+ https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
  
  voici le shéma de l'installation.
- 
+ ![planV2](https://user-images.githubusercontent.com/89647885/157478853-03a5c765-6b3f-4acc-ba17-5179e526a9e6.png)
+source:https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
+
 Il sera question aussi de réussir les cours en  conception sonore, espace intéractif et réalité virtuelle pour pouvoir faire ce projet.
 
 référence: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
