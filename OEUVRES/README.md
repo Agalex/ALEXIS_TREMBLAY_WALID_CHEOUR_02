@@ -68,9 +68,10 @@ Cette installation est une oeuvre interactive sous la forme d'un jeu télévisé
 
 
 voici l'installation encours dans les studios.
-
+![podium-wide](https://user-images.githubusercontent.com/89647885/157475132-909faee9-de02-4ac3-945d-a27d82b8e4ae.jpeg)
 
 voici le shéma de l'installation.
+![plan_technique_new](https://user-images.githubusercontent.com/89647885/157474956-61530022-b1f0-496e-9ca0-6bf24ea88af0.png)
 
 Bien évidemment, ce projet demandera d'avoir des compétences en programmtion, de sons et d'animation. Il faudra donc poursuivre les cours de conception sonore, montage video, Programmation interactive et bases de donées et raitement video.
 
