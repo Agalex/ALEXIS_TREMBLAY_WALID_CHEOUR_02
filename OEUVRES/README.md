@@ -1,8 +1,8 @@
-## ce dossier contient les oeuvres des étudiants des 3e année
+# ce dossier contient les oeuvres des étudiants des 3e année
 
-## 1 oeuvre : Chère Sasha
+# 1er oeuvre : Chère Sasha
 
-créateurs : Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina kayan
+## créateurs : Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina kayan
 
 Chère Sasha est une oeuvre interactive. On y découvre la vie de Sasha dans deux temps différents. En tant qu'adolescente et en tant qu'adulte. Le but est de montrer comment la vie d'une personne ayant vécu des temps difficiles au départ peut changer par la suite et devenir meilleure au fil du temps. Cette personne est justement réincarnée par Sahsha qui est négligée par ses parents à cause de son orientation sexuelle. Pour cela, le public sera invité à rentrer dans une chambre qui est séparée en deux. Un côté salle et en désordre montrant l'image dépressive d'elle auparavant. L'autre sera d'un côté propre, design, organisé  montrant sa vie meilleure d'elle dnas la vie adulte. Donc, l'ambiance sera divisée en deux. Une face dépressive avec le désordre et la noirceur. L'autre , des couleurs vives avec des meubles beaux et bien organisés( la joie de vivre). Le public devra interagir avec divers objets dans la salle afin que ça déclenche des vidéos, du son, des voix et des bruitages qui déduira les gens  à comprendre l'environnement que Sahsa vie dans les deux époques.
 
@@ -28,9 +28,9 @@ Les cours qui sont indispensables pour cette oeuvre sont: conception sonore int�
 référence: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 
-## 2 oeuvre : L'horloge de l'apocalypse
+# 2ième oeuvre : L'horloge de l'apocalypse
 
-Créateurs : Maxime Sabrouin, Louis-Phillipe Gravel, Alexis Lacasse, Tristan Girard-Montpetit, Maxime De Falcon
+## Créateurs : Maxime Sabrouin, Louis-Phillipe Gravel, Alexis Lacasse, Tristan Girard-Montpetit, Maxime De Falcon
 
 
 L’horloge de l’apocalypse représente la ligne du temps de l’humanité. L'ouvre est interactif. L'intéracteur a pour but de manipuler une horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Cette installation est autant une expérience immersive, car on y découvre comment la terre a été exposée au fil des époques. Des projections seront projetées avec de l'animation visuelle et sonore (bruitage, musique, etc.) L'ambiance sera diversifiée. L'interacteur expérimentera une ambiance paradiaque avec les animaux, le soleil, la nature jusqu'à  une ambiance infernale où il se sentira comme un effet accompagné d'une musique triste, etc. 
@@ -50,9 +50,9 @@ En expérimentant, on s'attendera a intéragir avec l'horloge pour prendre consc
  référence: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
  
  
- ## 3 oeuvres : 3 minutes
+ # 3ième oeuvre : 3 minutes
  
-créateurs : Naoufal Bensaid, Jérémie Lévesque, Samuel Poulin
+## créateurs : Naoufal Bensaid, Jérémie Lévesque, Samuel Poulin
 
 L'intention à travers le temps est de sensibiliser la personne à l'intimidation en lui faisant passer du bon temps et du mauvais temps. Il incarnera la personne se faisant intimider à l'école. Pour cela, l'oeuvre consistera à ce que l'utilisateur utilise de la Vr et interagira dans cet environnement accompagné d'effet sonore, du bruitage et des voix. Durant l'expérience, le public devra parcourir deux phases. Une où il joue au ballon-chasseur. Et l'autre en étant enfermé dans un casier.L'importance et de faire vivre  à l'utilisateur un sentiment d'impuissance, de détresse et de ne jamais laisser les victimes qui sont faites harceler dans ce genre de situation. L'ambiance sera diversifiée. En premier, elle sera plus joyeuse et dans le deuxième, il y aura une ambiance plus de solitude et sombre. C'est pareil pour l'ambiance sonore. On entendra des impacts de ballon sur le casier, sur les mannequins, des respirations fortes, des rires moqueurs,des pleurs, etc.
 
@@ -73,9 +73,9 @@ Ils nous semblent que les cours de réalité virtuelle, animation 3D et concepti
  
  référence: https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
-## 4 oeuvre : Jeu temporel.
+# 4ième oeuvre : Jeu temporel.
 
-créateurs: Raphaël Fillion et Philippe Trudel
+## créateurs: Raphaël Fillion et Philippe Trudel
 
 Cette installation est une oeuvre interactive sous la forme d'un jeu télévisé  questionnaire. Le but est de sensibiliser les gens avec l'environnement et les principales conséquences écologiques. Le jeu consistera à ce qu'un animateur  invite les gens à faire une expérience temporel pour répondre à des questions concernant des enjeux de la société. Il y aura des questions qui sera basée sur la société et la culture générale. L'intention est de remettre en question les gens à propos d'un futur qui sera sois déplorable ou remarquable. Il faudara prendre conscience des conscéquences sociales qui impactera l'avenir. L'ambiance ressemblera à celui d'un jeu télévisé avec de la bonne couleure, de la musique, des humeurs différantes etc.
 
@@ -96,9 +96,10 @@ Bien évidemment, ce projet demandera d'avoir des compétences en programmtion, 
 référence: https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
 
 
-## 5 oeuvre : Distorsion collective
+# 5ième oeuvre : Distorsion collective
 
-créateurs : William Dubois et Ghislain Lacombe
+## créateurs : William Dubois et Ghislain Lacombe
+
  L'installation est aussi une oeuvre utilisant le casque Vr. Elle conciste a projeter l'expérience d'un élève vivant une situation d'angoisse et de stresse durant le confinement. En l'incarnant, la personne devra expérimenter dans cet univers les différentes expériences stressantes que les étudiants avaient durant l'étude à distance. C'est-à-dire, l'accumulation des travaux, le sentiment d'isolement et l'anixété face à l'échec. Il devra parcourir certains stades de l'expérience commencant en premier par son bureau devant un ordinateur dans sa chambre, dans sa salle à manger et dans son salon. L'intention est de faire comprendre aux utilisateurs l'inquiétude et le stresse endurer par les étudiants et ses difficultés  au fil des différents temps du confinement.Des témoignages/ articles de journaux eront visibles aussi sur des mesures pour sensibiler le public au stresse. L'ambiance sera accompagné d'une musique de relaxation qui commencera tout au début de l'éxpérience avant de mettre le casque. Elle finira ensuite par un genre héroïque après que l'éxpérience se termine. L'utilisateur se sentira libéré de toute la pression que cette expérience lui infligera à la fin après qu'il ait vécu ce cauchemar.
  
  voici l'installation en cours dans les studios.
@@ -118,9 +119,9 @@ référence: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs
 
 
 
-## 6 oeuvre : Chronaufrage
+# 6ième oeuvre : Chronaufrage
 
-Créateurs/créatrices: Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine
+## Créateurs/créatrices: Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine
 
 Ce projet prend la forme d'un musée. L'intention de départ est de représenter le temps mort que les gens ont pour devenir productifs et d'accomplir des tâches qui sont nécessaires pour avancer dans la vie et de s'améliorer en tant qu'humain. Le temps est donc une importance nécessaire dans la vie et elle sera représentée par l'eau dans l'oeuvre. Cette installation consiste à ce que le public se rapproche de différentes projections numériques qui diffusent certaines interactions dans des tableaux. Elles sont influencées par les utilisateurs.  Il y aura une animation qui se déclenchera selon la position ou le geste de la personne devant. Dans chaque diffusion, il y aura une référence avec l'eau. Cette référence symbolisera le temps et la personne devra déduire comment le temps est perçu en se fiant à l'image. Le projet aura une ambiance calme,décontractée avec des sons de pluies, des images dessinées et une musique apaisante. Les images varieront d'un état plus vif à  plus sombre. Les personnes finiront l'expérience en ayant une meilleure conscience sur l'importante du temps dans la vie. 
 
