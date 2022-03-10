@@ -104,7 +104,16 @@ référence: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs
 
 Créateurs/créatrices: Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine
 
-Ce projet prends la forme d'un musée. L'intention de départ est de repésenter que le temps mort que les gens ont pour devenir productif et d'acomplir des tâches qui sont ncéessaires pour avancer dans la vie et de s'améliorer en tant qu'humain. l'oeuvre conciste à ce que le public se rapprochennt de différentes projections numériques qui diffuse certaines intéractions dans des tableaux  qui sont influencés par les utilisateurs.  
+Ce projet prends la forme d'un musée. L'intention de départ est de représenter le temps mort que les gens ont pour devenir productif et d'acomplir des tâches qui sont ncéessaires pour avancer dans la vie et de s'améliorer en tant qu'humain. Le temps est donc une importance nécessaire dans la vie et elle sera représentée par l'eau dans l'oeuvre. Cette installation conciste à ce que le public se rapproche de différentes projections numériques qui diffuse certaines intéractions dans des tableaux. Elles sont influencées par les utilisateurs.  Il y aura une animation qui se déclenchera selon la position ou le geste de la personne devant. Dans chaque diffusion, il y aura une référence avec l'eau. Cette référence sybolisera le temps et la personne devra déduire comment le temps est percue en se fiant à l'image. Le projet aura une ambiance calme, relaxe avec des sons de pluies, des images dessinées et une musique apaisante. Les images variront d'un état plus vive à  plus sombre. Les personnes finiront l'expérience en ayant une meilleure conscience sur l'importante du temps dans la vie. 
+
+voici l'installation en cours dans les studios :
+
+
+
+ voici le shéma de l'installation:
+ 
+ 
+ Ce projet demendera de compléter les cours en animation 2d, conception sonore, programmation interactif et base de donnée, espace ontéractif et montage video.
 
 
 
