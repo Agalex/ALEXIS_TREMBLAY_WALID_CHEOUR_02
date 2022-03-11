@@ -10,8 +10,8 @@ L’utilisation d’une horloge pour faire avancer l’expérience et les scène
 
 ## Nouvelle componsante: ##
 
-La Kinect pour le tracking, nous pension sque c'était seulement pour la xbox et que se n'était pas possible de fais faire du tracking en la connectant dans un ordinateur.
-Créer par Microsoft en 2010 pour la Xbox pour des jeux interactifs, on ne pensais pas que la Kinect était capable de faire du tracking hors des jeux pour la xbox. Ce dispositif doit être branché pour pouvoir marché alors branché dans la Xbox était son but initial. A la base, il n’était pas possible de la connecter à un pc mais en 2012 ce fut possible. 
+La Kinect pour le tracking, nous pensions que c'était seulement pour la  xbox et que ce n'était pas possible de faire du tracking en la connectant dans un ordinateur.
+Créer par Microsoft en 2010 pour la Xbox  et pour des jeux interactifs de la console , on ne pensait pas que la Kinect était capable de faire du tracking hors des jeux de la console. Ce dispositif doit être branché pour pouvoir marcher. Donc, son but initial était d'être connecté à la Xbox . À la base, il n’était pas possible de la connecter à un pc mais en 2012 ce fut possible. 
 Composante: lentille pour détecter la couleur et la profondeur de champs, micro à reconnaissance vocale et capteur de mouvement 
 
 
