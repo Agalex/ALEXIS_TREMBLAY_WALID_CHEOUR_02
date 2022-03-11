@@ -135,7 +135,7 @@ source: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.htm
  
  Ce projet demendera de compléter les cours en animation 2d, conception sonore, programmation interactif et base de donnée, espace ontéractif et montage video.
 
-
+référence: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 
 
