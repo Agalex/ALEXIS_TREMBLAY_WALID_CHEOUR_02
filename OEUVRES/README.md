@@ -4,7 +4,7 @@
 
 ## créateurs : Trish Nguyen, Angelina De Silva Jeca, Karine Cormier et Sabrina kayan
 
-Chère Sasha est une oeuvre interactive. On y découvre la vie de Sasha dans deux temps différents. En tant qu'adolescente et en tant qu'adulte. Le but est de montrer comment la vie d'une personne ayant vécu des temps difficiles au départ peut changer par la suite et devenir meilleure au fil du temps. Cette personne est justement réincarnée par Sahsha qui est négligée par ses parents à cause de son orientation sexuelle. Pour cela, le public sera invité à rentrer dans une chambre qui est séparée en deux. Un côté salle et en désordre montrant l'image dépressive d'elle auparavant. L'autre sera d'un côté propre, design, organisé  montrant sa vie meilleure d'elle dnas la vie adulte. Donc, l'ambiance sera divisée en deux. Une face dépressive avec le désordre et la noirceur. L'autre , des couleurs vives avec des meubles beaux et bien organisés( la joie de vivre). Le public devra interagir avec divers objets dans la salle afin que ça déclenche des vidéos, du son, des voix et des bruitages qui déduira les gens  à comprendre l'environnement que Sahsa vie dans les deux époques.
+Chère Sasha est une oeuvre interactive. On y découvre la vie de Sasha dans deux temps différents. En tant qu'adolescente et en tant qu'adulte. Le but est de montrer comment la vie d'une personne ayant vécu des temps difficiles au départ peut changer par la suite et devenir meilleure au fil du temps. Cette personne est justement réincarnée par Sahsha qui est négligée par ses parents à cause de son orientation sexuelle. Pour cela, le public sera invité à rentrer dans une chambre qui est séparée en deux. Un côté salle et en désordre montrant l'image dépressive d'elle auparavant. L'autre sera d'un côté propre, design, organisé  montrant sa vie meilleure d'elle durant la vie adulte. Donc, l'ambiance sera divisée en deux. Une face dépressive avec le désordre et la noirceur. L'autre , des couleurs vives avec des meubles beaux et bien organisés( la joie de vivre). Le public devra interagir avec divers objets dans la salle afin que ça déclenche des vidéos, du son, des voix et des bruitages qui déduira les gens  à comprendre l'environnement que Sahsa vie dans les deux époques.
 
 
 Voici les installations en cours pour l'environnement, le son et les lumières.
@@ -33,7 +33,7 @@ référence: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index
 ## Créateurs : Maxime Sabrouin, Louis-Phillipe Gravel, Alexis Lacasse, Tristan Girard-Montpetit, Maxime De Falcon
 
 
-L’horloge de l’apocalypse représente la ligne du temps de l’humanité. L'ouvre est interactif. L'intéracteur a pour but de manipuler une horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Cette installation est autant une expérience immersive, car on y découvre comment la terre a été exposée au fil des époques. Des projections seront projetées avec de l'animation visuelle et sonore (bruitage, musique, etc.) L'ambiance sera diversifiée. L'interacteur expérimentera une ambiance paradiaque avec les animaux, le soleil, la nature jusqu'à  une ambiance infernale où il se sentira comme un effet accompagné d'une musique triste, etc. 
+L’horloge de l’apocalypse représente la ligne du temps de l’humanité. L'ouvre est interactif. L'intéracteur a pour but de manipuler une horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Cette installation est autant une expérience immersive, car on y découvre comment la terre a été exposée au fil des époques. Des projections seront projetées avec de l'animation visuelle et sonore (bruitage, musique, etc.) L'ambiance sera diversifiée. L'interacteur expérimentera une ambiance paradisiaque avec les animaux, le soleil, la nature jusqu'à  une ambiance infernale où il se sentira comme s'il était en enfer ou dans l'apocalypse. Le tout sera aussi accompagné d'une musique qui varie ( de joyeuse à triste).
 
 voici les installations en cours dans les studios
 ![projecteurs](https://user-images.githubusercontent.com/89647885/157320805-ebf7d6e1-885a-4306-a8c1-ae317504b142.jpg)
@@ -90,7 +90,7 @@ voici le shéma de l'installation.
 source:https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 
 
-Bien évidemment, ce projet demandera d'avoir des compétences en programmtion, de sons et d'animation. Il faudra donc poursuivre les cours de conception sonore, montage video, Programmation interactive et bases de donées et le traitement video.
+Bien évidemment, ce projet demandera d'avoir des compétences en programmtion, de sons et d'animation. Il faudra donc poursuivre les cours de conception sonore, montage video, Programmation interactive, bases de donées et de traitement video.
 
 
 référence: https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
