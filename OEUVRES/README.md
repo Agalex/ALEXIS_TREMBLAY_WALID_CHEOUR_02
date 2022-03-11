@@ -1,4 +1,4 @@
-# ce dossier contient les oeuvres des étudiants des 3e année
+# Ce dossier contient les oeuvres des étudiants des 3e année
 
 # 1er oeuvre : Chère Sasha
 
