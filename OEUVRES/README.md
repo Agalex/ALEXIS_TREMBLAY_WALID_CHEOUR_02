@@ -126,11 +126,12 @@ référence: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs
 Ce projet prend la forme d'un musée. L'intention de départ est de représenter le temps mort que les gens ont pour devenir productifs et d'accomplir des tâches qui sont nécessaires pour avancer dans la vie et de s'améliorer en tant qu'humain. Le temps est donc une importance nécessaire dans la vie et elle sera représentée par l'eau dans l'oeuvre. Cette installation consiste à ce que le public se rapproche de différentes projections numériques qui diffusent certaines interactions dans des tableaux. Elles sont influencées par les utilisateurs.  Il y aura une animation qui se déclenchera selon la position ou le geste de la personne devant. Dans chaque diffusion, il y aura une référence avec l'eau. Cette référence symbolisera le temps et la personne devra déduire comment le temps est perçu en se fiant à l'image. Le projet aura une ambiance calme,décontractée avec des sons de pluies, des images dessinées et une musique apaisante. Les images varieront d'un état plus vif à  plus sombre. Les personnes finiront l'expérience en ayant une meilleure conscience sur l'importante du temps dans la vie. 
 
 voici l'installation en cours dans les studios :
-
-
+![2taXktd](https://user-images.githubusercontent.com/89647885/157479374-840a0254-f491-49d3-8773-dd4cdc9bb074.jpeg)
+source: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
  voici le shéma de l'installation:
- 
+ ![plan_technique](https://user-images.githubusercontent.com/89647885/157479715-1bcd2e09-5c6b-4e77-89a6-e2d24fa086a4.png)
+ source: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
  
  Ce projet demendera de compléter les cours en animation 2d, conception sonore, programmation interactif et base de donnée, espace ontéractif et montage video.
 
